@@ -1,0 +1,65 @@
+body{margin: 0;
+        padding: 0;
+        font-family: 'Open Sans', sans-serif;
+        font-size: 24px;}
+
+
+#barra{background-color: #333 ; 
+        color: white;
+        text-align: center;
+        font-size: 28px;
+        padding: 18px;}
+
+h3{padding: 0;
+    margin: 0;}
+    
+#barraLaranja{background-color: orange;
+                height: 8px;
+                border: none;}
+
+#conteudo{width: 1000px;
+            overflow: hidden;
+            margin: auto;}
+
+h1{font-size: 2.4em;}
+
+h2{font-weight: 500;
+    font-size: 1em;}
+
+h4{font-size: 1.5em;
+    margin-bottom: 10px ;}
+
+#nomeAutor{font-size: 1rem;
+            font-weight: 800;
+            margin-bottom: 0px;}
+
+#data{font-size: 0.8rem;
+        font-weight: 100;}
+
+img{margin-left: 10px ;
+        height: 35px;}
+
+#facebook{margin-left: 0px;}
+
+#texto{width: 800px;
+        margin: auto;}
+
+
+a{text-decoration: none;
+    color: #fd8a24;
+    font-weight: 700;}
+
+a:hover{text-decoration:underline;}
+
+figure{margin: 0;}
+
+figcaption{font-size: 0.8rem;
+            margin-top: 15px;}
+
+.imgs{height: 400px;
+        width: 700px;
+        margin: 0;}
+
+#final{background-color: #333;
+        padding: 50px;
+        margin-top: 150px;}
